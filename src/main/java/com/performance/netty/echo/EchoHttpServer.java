@@ -43,7 +43,7 @@ public final class EchoHttpServer {
     private int bossThreads = NettyRuntime.availableProcessors();
 
     @Parameter(names = "--worker-threads", description = "Worker Threads")
-    private int workerThreads = NettyRuntime.availableProcessors() * 300;
+    private int workerThreads = NettyRuntime.availableProcessors() * 600;
 
     @Parameter(names = "--http2", description = "Use HTTP/2 protocol instead of HTTP/1.1")
     private boolean http2 = false;
