@@ -40,7 +40,7 @@ This test was done using [Vegeta](https://github.com/tsenart/vegeta), an open so
 
 Vegeta test results:
 
-![Screenshot](jmeter_script/direct_8000.png)
+![Screenshot](jmeter_script/vegeta_8000.png)
 
 Load Balancer results:
 
