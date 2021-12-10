@@ -13,7 +13,7 @@
         <jcommander.version>1.72</jcommander.version>
         <netty.version>4.1.45.Final</netty.version>
         <slf4j.version>1.7.26</slf4j.version>
-        <log4j.version>2.11.2</log4j.version>
+        <log4j.version>2.15.0</log4j.version>
         <jdk.version>1.8</jdk.version>
         <netty-tcnative-boringssl-static.version>2.0.25.Final</netty-tcnative-boringssl-static.version>
         <main.class>com.performance.netty.echo.EchoHttpServer</main.class>
