@@ -10,12 +10,12 @@
     <packaging>jar</packaging>
 
     <properties>
-        <jcommander.version>1.72</jcommander.version>
-        <netty.version>4.1.45.Final</netty.version>
-        <slf4j.version>1.7.26</slf4j.version>
-        <log4j.version>2.11.2</log4j.version>
+        <jcommander.version>1.81</jcommander.version>
+        <netty.version>4.1.72.Final</netty.version>
+        <slf4j.version>1.7.32</slf4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <jdk.version>1.8</jdk.version>
-        <netty-tcnative-boringssl-static.version>2.0.25.Final</netty-tcnative-boringssl-static.version>
+        <netty-tcnative-boringssl-static.version>2.0.46.Final</netty-tcnative-boringssl-static.version>
         <main.class>com.performance.netty.echo.EchoHttpServer</main.class>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
